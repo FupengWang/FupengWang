@@ -4,6 +4,6 @@
 </a>
 
 <a href="https://github.com/FupengWang?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FupengWang&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FupengWang&theme=gotham&hide=javascript,html,css" />
 </a>
 
