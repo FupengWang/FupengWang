@@ -1,6 +1,6 @@
 
 <a href="https://github.com/FupengWang?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FupengWang&theme=gotham&show_icons=true&hide=contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FupengWang&theme=gotham&show_icons=true" />
 </a>
 
 <a href="https://github.com/FupengWang?tab=repositories">
